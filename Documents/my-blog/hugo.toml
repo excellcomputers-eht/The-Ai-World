@@ -1,0 +1,17 @@
+baseURL = 'https://shan1978.github.io/'
+locale = 'en-us'
+title = 'My Awesome Blog'
+theme = 'PaperMod'
+
+[params]
+  description = 'My personal blog about technology and AI'
+  author = 'shan1978'
+  
+  [params.profileMode]
+    enabled = true
+    title = 'Welcome to My Ai World'
+    subtitle = 'Writing about technology, AI, and programming'
+  
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/shan1978'
